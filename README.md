@@ -92,6 +92,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Cristian0813/Cristian0813/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Cristian0813/Cristian0813/blob/main/snake.svg" alt="Snake animation" />
 
 ###
