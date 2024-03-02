@@ -65,10 +65,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/cristianarias-fullstack-frontend-backend/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <a href="mailto:javier.0813@hotmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  /></a>
-  <a href="mailto:cristianjariaso@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
-  <a href="http://t.me/cristianjariaso" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  /></a>
+  <a href="https://www.linkedin.com/in/cristianarias-fullstack-frontend-backend/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0E76A8&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="mailto:javier.0813@hotmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0F3464&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  /></a>
+  <a href="mailto:cristianjariaso@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=C71610&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
+  <a href="http://t.me/cristianjariaso" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088CC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  /></a>
   <a href="https://discord.com/users/769380848796696586" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
 </div>
 
@@ -81,7 +81,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Cristian0813&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cristian0813&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cristian0813&radius=16&theme=react&area=true&order=5&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cristian0813&radius=16&theme=react&area=true&order=5&hide_title=true&hide_border=true&area_color=f261f2&line=f261f2" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
