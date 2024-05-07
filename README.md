@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me llamo Cristian Arias soy un Desarrolador Full Stack.</p>
+<p align="left">Soy Cristian Arias Desarrollador Full Stack.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Soy un profesional apasionado por la tecnología y con un fuerte compromiso por la calidad. Me entusiasma resolver problemas de forma creativa y eficiente, siempre buscando la mejor solución para el cliente</p>
+<p align="left">Soy un profesional apasionado por la tecnología y con un fuerte compromiso por la calidad. Me entusiasma resolver problemas de forma creativa y eficiente, siempre buscando la mejor solución</p>
 
 ###
 
