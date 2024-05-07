@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Soy un profesional apasionado por la tecnología y con un fuerte compromiso por la calidad. Me entusiasma resolver problemas de forma creativa y eficiente, siempre buscando la mejor solución</p>
+<p align="left">Un profesional apasionado por la tecnología y con un fuerte compromiso por la calidad. Me entusiasma resolver problemas de forma creativa y eficiente, siempre buscando la mejor solución</p>
 
 ###
 
