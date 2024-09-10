@@ -1,10 +1,6 @@
-¡Hola 👋🏼, mi nombre es! 
-<br>
-Cristian Arias
-<br>
-Desarrollador Full Stack
----
-Soy un profesional apasionado por la tecnología, siempre comprometido con la calidad y la eficiencia. Me encanta resolver problemas de manera creativa, buscando siempre la mejor solución para cada proyecto.<br><br>Me especializo tanto en frontend como en backend, creando aplicaciones web que no solo son visualmente atractivas sino también altamente funcionales en cualquier dispositivo. Utilizo tecnologías como HTML, CSS, JavaScript, TypeScript, React, Node.js, APIs, entre otras, para desarrollar soluciones robustas y escalables.
+**¡Hola 👋🏼, mi nombre es!** 
+# _Cristian Arias_
+Soy un profesional apasionado por la tecnología, siempre comprometido con la calidad y la eficiencia. Me encanta resolver problemas de manera creativa, buscando siempre la mejor solución para cada proyecto.<br><br>Me especializo tanto en frontend como en backend, creando aplicaciones web que no solo son visualmente atractivas sino también altamente funcionales en cualquier dispositivo. Utilizo tecnologías como **HTML, CSS, JavaScript, TypeScript, React, Node.js, APIs**, entre otras, para desarrollar soluciones robustas y escalables.
 
 ## Puedes ver mi portafolio 👇🏼
 
