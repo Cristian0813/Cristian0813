@@ -47,3 +47,4 @@ Soy un profesional apasionado por la tecnología, siempre comprometido con la ca
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Cristian0813&icon=2&color=0)](https://visitcount.itsvg.in)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aCristian0813)](https://github.com/anuraghazra/github-readme-stats)
