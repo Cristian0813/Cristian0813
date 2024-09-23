@@ -40,11 +40,10 @@ Soy un profesional apasionado por la tecnología, siempre comprometido con la ca
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian0813&locale=es&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian0813&locale=es&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Cristian0813&locale=es&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Cristian0813&icon=2&color=0)](https://visitcount.itsvg.in)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aCristian0813)](https://github.com/anuraghazra/github-readme-stats)
