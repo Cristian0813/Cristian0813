@@ -4,7 +4,7 @@ Soy un profesional apasionado por la tecnología, siempre comprometido con la ca
 
 ## Puedes ver mi portafolio 👇🏼
 
-<a href="https://cristianjariaso.netlify.app/" target="_blank"><img src="https://github.com/Cristian0813/portafoliocristian/blob/main/public/IsoCA.svg" height="100" alt="Portfolio" /></a>
+<a href="https://cristianjariaso.vercel.app/" target="_blank"><img src="https://github.com/Cristian0813/portafoliocristian/blob/main/public/IsoCA.svg" height="100" alt="Portfolio" /></a>
 
 ## 🌐 Sociales:
 <a href="https://www.linkedin.com/in/cristianarias-fullstack-frontend-backend/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0E76A8&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
